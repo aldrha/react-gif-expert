@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Pruebas en <GifItem /> Debe hacer match con el snapshop 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Esto es un titulo"
+      src="https://fastly.picsum.photos/id/360/536/354.jpg?hmac=hkJ_RmEPujjDj-tkqFkWT01yZlT-pWSePQb2PUJlwvE"
+    />
+    <p>
+       
+      Esto es un titulo
+    </p>
+  </div>
+</div>
+`;
