@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Pruebas en <GifExpertApp /> debe de hacer match con el snapshop 1`] = `
+<div>
+  <h1
+    aria-label="title"
+  >
+    GiftExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Buscar gifs"
+      type="text"
+      value=""
+    />
+  </form>
+  <ol>
+    <h1
+      aria-label="category-title"
+    >
+      Power Rangers
+    </h1>
+    <h2>
+      Cargando ...
+    </h2>
+    <div
+      class="card-grid"
+    />
+  </ol>
+</div>
+`;
